@@ -1,0 +1,12 @@
+.color-red {
+    color: red;
+}
+.gender-td {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gender-image{
+    width: 20px;
+    margin-left: 10px;
+}
